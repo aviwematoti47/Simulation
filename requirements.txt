@@ -3,3 +3,7 @@ streamlit
 numpy
 pandas
 scikit-learn
+networkx
+matplotlib
+time
+random
